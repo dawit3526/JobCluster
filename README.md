@@ -3,6 +3,7 @@
 
 This document explains how to cluster list of job titles.
 Steps I have followed 
+
     1.Taking random sample from the list of jobs and  tokenizing each title
     2.Vectorizing the titles using tf-idf vectorization technique
     3.calculate distance b/n each titles and create distance matrix
