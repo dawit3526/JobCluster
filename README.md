@@ -1,4 +1,6 @@
-#Clustering Job Titles
+##Clustering Job Titles
+
+
 This document explains how to cluster list of job titles.
 Steps I have followed 
     1.Taking random sample from the list of jobs and  tokenizing each title
